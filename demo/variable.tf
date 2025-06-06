@@ -11,7 +11,7 @@ variable "region" {
 }
 
 variable "certificate_arn" {
-  default = "arn:aws:acm:ap-south-1:700053616195:certificate/d0d2dd8e-a529-41a5-a646-59284a0308f6"
+  default = "certifcate-arn"
 }
 
 
