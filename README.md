@@ -1,6 +1,6 @@
 # Kanban Task Management App
 
-A kanban-style task management app deployed on AWS with Terraform. 
+A kanban-style task management app deployed on AWS with Terraform.  
 Successfully maintained operational costs under $100 per month
 
 ## Frontend Preview
